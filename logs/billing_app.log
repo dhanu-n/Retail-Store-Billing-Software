@@ -1,0 +1,95 @@
+2026-06-09 23:27:21,811 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-09 23:27:38,989 - WARNING - Login Failed | User: Dhanu
+2026-06-09 23:46:38,253 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-09 23:59:53,737 - WARNING - Login Failed | User: dhanu
+2026-06-10 00:00:01,328 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 00:00:54,953 - INFO - Bill Generated | Customer: yuvasree | Phone: 7654234567 | Biller: BL_001 | Total: 620
+2026-06-10 00:33:51,228 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 01:01:52,040 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 01:22:17,226 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 19:38:56,709 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 19:45:25,680 - INFO - Bill Generated | Customer: aju | Phone: 7631789098 | Biller: BL_001 | Total: 1310
+2026-06-10 19:45:48,011 - INFO - Bill Generated | Customer: aju | Phone: 7631789098 | Biller: BL_001 | Total: 1480
+2026-06-10 19:46:17,493 - INFO - PDF Generated | Bill No: 14 | User: BL_001
+2026-06-10 19:46:21,704 - INFO - Bill Saved | Bill No: 14 | Customer: aju | User: BL_001
+2026-06-10 20:14:10,094 - INFO - Login Successful | User: dhanu - admin - BL_001
+2026-06-10 21:37:35,637 - WARNING - Login Failed | User: user
+2026-06-10 21:37:51,108 - WARNING - Login Failed | User: user
+2026-06-10 21:37:59,830 - WARNING - Login Failed | User: user
+2026-06-10 21:38:06,711 - WARNING - Login Failed | User: user
+2026-06-10 21:39:21,076 - INFO - Login Successful | User: Dhanu - admin - BL_001
+2026-06-10 23:26:40,844 - INFO - Login Successful | dhanu - admin - BL_001
+2026-06-10 23:35:17,097 - WARNING - Case mismatch login attempt: dhanu
+2026-06-10 23:35:29,508 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 00:12:15,122 - WARNING - Case mismatch login attempt: dhanu
+2026-06-11 00:12:25,422 - ERROR - Login error: Invalid salt
+2026-06-11 00:12:31,728 - ERROR - Login error: Invalid salt
+2026-06-11 00:12:45,199 - ERROR - Login error: Invalid salt
+2026-06-11 00:12:50,172 - ERROR - Login error: Invalid salt
+2026-06-11 00:16:02,093 - ERROR - Login error: Invalid salt
+2026-06-11 00:25:01,801 - ERROR - Login error: Invalid salt
+2026-06-11 00:25:09,437 - ERROR - Login error: Invalid salt
+2026-06-11 00:32:35,777 - ERROR - Login error: Invalid salt
+2026-06-11 00:52:05,237 - WARNING - Case mismatch login attempt: dhanu
+2026-06-11 00:52:27,588 - WARNING - Wrong password for Dhanu
+2026-06-11 01:05:27,457 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 01:05:58,213 - INFO - Login Successful | cash1 - cashier - BL_002
+2026-06-11 01:06:28,990 - INFO - Login Successful | cash2 - cashier - BL_003
+2026-06-11 01:18:40,541 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 01:24:23,254 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 01:25:02,349 - INFO - Bill Generated | Customer: ajii | Phone: 9876543234 | Biller: BL_001 | Total: 2160
+2026-06-11 01:25:16,288 - INFO - PDF Generated | Bill No: 15 | User: BL_001
+2026-06-11 01:31:32,756 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 01:32:19,467 - INFO - Bill Generated | Customer: mathi | Phone: 7654323456 | Biller: BL_001 | Total: 800
+2026-06-11 01:32:26,471 - INFO - Bill Saved | Bill No: 15 | Customer: mathi | User: BL_001
+2026-06-11 01:32:29,611 - INFO - PDF Generated | Bill No: 15 | User: BL_001
+2026-06-11 01:33:09,425 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 01:33:38,162 - INFO - Bill Generated | Customer: riya | Phone: 3456788765 | Biller: BL_001 | Total: 2990
+2026-06-11 01:33:47,559 - INFO - Bill Saved | Bill No: 16 | Customer: riya | User: BL_001
+2026-06-11 02:05:19,155 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 19:49:29,537 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 19:50:06,416 - INFO - Bill Generated | Customer: siva | Phone: 7654324567 | Biller: BL_001 | Total: 1350
+2026-06-11 19:50:09,111 - INFO - Bill Saved | Bill No: 17 | Customer: siva | User: BL_001
+2026-06-11 19:50:14,268 - INFO - PDF Generated | Bill No: 17 | User: BL_001
+2026-06-11 20:18:45,619 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:23:30,530 - WARNING - Login Failed | Dhanu
+2026-06-11 20:23:36,498 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:24:21,528 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:31:41,999 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:43:12,278 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:44:46,128 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 20:46:27,284 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 21:47:47,812 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 21:51:10,359 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 21:51:41,044 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 21:52:08,589 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 21:52:34,647 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 22:56:42,409 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 22:58:30,699 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:01:18,179 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:06:41,759 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:10:03,973 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:16:13,534 - WARNING - Login Failed | Dhanu
+2026-06-11 23:16:19,084 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:18:39,066 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:21:42,423 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:24:02,175 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:28:24,511 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:31:31,832 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:34:08,087 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:42:13,169 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:45:03,887 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:49:51,629 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:52:30,293 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-11 23:57:08,589 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-12 00:02:14,034 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-12 00:07:43,529 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-12 00:08:56,296 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-12 00:18:02,789 - INFO - Bill Generated | Customer: dhanusree | Phone: 7654321345 | Biller: BL_001 | Total: 840
+2026-06-12 00:18:06,232 - INFO - Bill Saved | Bill No: 18 | Customer: dhanusree | User: BL_001
+2026-06-12 00:18:09,626 - INFO - PDF Generated | Bill No: 18 | User: BL_001
+2026-06-12 01:07:34,105 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-13 23:16:37,315 - INFO - Login Successful | Dhanu - admin - BL_001
+2026-06-13 23:17:05,464 - INFO - Bill Generated | Customer: liya | Phone: 7654323456 | Biller: BL_001 | Total: 3690
+2026-06-13 23:17:09,526 - INFO - Bill Saved | Bill No: 19 | Customer: liya | User: BL_001
+2026-06-13 23:17:12,885 - INFO - PDF Generated | Bill No: 19 | User: BL_001
